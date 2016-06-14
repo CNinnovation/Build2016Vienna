@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConfigurationSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "DEVELOP"
+      }
+    }
+  }
+}
